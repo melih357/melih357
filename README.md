@@ -73,6 +73,35 @@ gesture-based interaction and computer vision.
 
 ---
 
+## 📚 All My Public Projects
+
+I build and experiment with web applications across social platforms, community tools, productivity and interactive experiences. Some projects are prototypes or still under development.
+
+| Project | What it explores |
+|---|---|
+| [ALDZ](https://github.com/melih357/ALDZ) | Social platform, communities, events and messaging |
+| [Takaset](https://github.com/melih357/Takaset-Para-Yok-Takas-Var-) | Money-free product exchange marketplace |
+| [BUFF](https://github.com/melih357/BUFF) | Live streaming and community interaction |
+| [SözFişi](https://github.com/melih357/SozFisi) | Personal agreements, revisions and approvals |
+| [etki](https://github.com/melih357/etki) | Local kindness and community action |
+| [Loopa](https://github.com/melih357/Loopa) | Sharing, lending and exchanging unused items |
+| [Sıra Bende](https://github.com/melih357/Sira-Bende) | Mutual help and time-credit tasks |
+| [Wisio](https://github.com/melih357/Wisio) | Community questions and reusable knowledge |
+| [DoNow](https://github.com/melih357/DoNow) | Tasks and shared work rooms |
+| [AirTap](https://github.com/melih357/AirTap) | Camera-based gesture interactions |
+| [MEra](https://github.com/melih357/MEra) | School memories and graduation yearbook |
+| [RoadPass](https://github.com/melih357/RoadPass) | Vehicle and journey planning |
+| [V-404](https://github.com/melih357/V-404) | Lost-and-found item matching |
+| [Cerise Atelier](https://github.com/melih357/Cerise-Atelier) | General legal-information assistant prototype |
+| [ctrlzsizhayat](https://github.com/melih357/ctrlzsizhayat) | User sign-in and account management |
+| [CoBuy](https://github.com/melih357/CoBuy) | Experimental application repository |
+| [Barkodda-Bela](https://github.com/melih357/Barkodda-Bela) | Experimental application repository |
+| [TapGlobai](https://github.com/melih357/TapGlobai) | Interactive game project |
+
+**[Browse all repositories →](https://github.com/melih357?tab=repositories)
+
+---
+
 ## 🎯 Currently Focused On
 
 - Building responsive web applications
